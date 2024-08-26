@@ -5,7 +5,9 @@
 - Document your learnings
 - Write the challenges of using standalone containers.
 - Describe how Kubernetes solves those challenges
+- Show the differece etwee docker and kubernetes.
 - List out 5 usecases where you should use Kubernetes and 5 usecases where you shouldn't use Kubernetes
+  
 
 2. **Share your learnings**: Document your key takeaways and insights in a blog post and social media update
 3. **Make it public**: Share what you learn publicly on LinkedIn or Twitter.
