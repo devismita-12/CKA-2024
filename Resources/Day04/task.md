@@ -5,7 +5,7 @@
 - Document your learnings
 - Write the challenges of using standalone containers.
 - Describe how Kubernetes solves those challenges
-- Show the differece etwee docker and kubernetes.
+- Show the difference between docker and kubernetes.
 - List out 5 usecases where you should use Kubernetes and 5 usecases where you shouldn't use Kubernetes
   
 
